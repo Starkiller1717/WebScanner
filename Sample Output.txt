@@ -1,1 +1,13 @@
+user@Term-Project:~/offsec-framework$ source venv/bin/activate
+python3 main.py
+=== OffSec Automation Framework ===
 
+Target IP: 127.0.0.1
+Target URL (optional): 
+[+] Running: nmap -sV 127.0.0.1
+[+] Running: whois 127.0.0.1
+[+] Running: dig 127.0.0.1
+[+] Building report...
+
+[+] Scan Complete
+[+] Report saved to reports/report.pdf
