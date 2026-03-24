@@ -23,3 +23,6 @@ The framework integrates industry-standard tools such as Nmap, Whois, Dig, and S
 ## Setup Instructions
 
 ### 1. Clone Repository
+
+## Sample Results
+Sample outputs are located in the `sample_outputs/` directory. These demonstrate successful execution of the framework, including network scanning, DNS queries, and automated report generation.
