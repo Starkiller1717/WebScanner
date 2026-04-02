@@ -3,7 +3,7 @@
 ## Overview
 This project is an automated offensive security assessment framework designed to perform reconnaissance, vulnerability identification, controlled testing, and reporting within an isolated lab environment.
 
-The framework integrates industry-standard tools such as Nmap, Whois, Dig, and SQLmap into a centralized Python-based automation pipeline.
+The framework integrates industry-standard tools such as Nmap, Whois, Dig, and plans for SQLmap integegrtion into a centralized Python-based automation pipeline.
 
 ## Features
 - Automated network reconnaissance (Nmap)
